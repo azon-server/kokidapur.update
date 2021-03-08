@@ -1,6 +1,6 @@
-baseURL = "https://resepternama.web.app/"
+baseURL = "https://reseputama.web.app/"
 languageCode = "en-us"
-title = "Resep Ternama"
+title = "Resep Utama"
 theme = "grid"
 
 [taxonomies]
@@ -11,9 +11,9 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "1500 lebih variasi ternama yang telah teruji dan sangat gampang untuk dicontoh"
-  topdescription = "1500 lebih variasi ternama yang telah teruji dan sangat gampang untuk dicontoh"
-  toptitle = "Resep Ternama"
+  description = "2500 lebih resep ternama dari berbagai sumber yang dirangkum untuk anda contoh dengan mudah"
+  topdescription = "2500 lebih resep ternama dari berbagai sumber yang dirangkum untuk anda contoh dengan mudah"
+  toptitle = "Resep Utama"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://resepternama.web.app/"
+    homepage = "https://reseputama.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

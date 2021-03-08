@@ -1,6 +1,6 @@
 {
   "hosting": {
-	"site": "resepternama",
+	"site": "reseputama",
     "public": "public",
     "ignore": [
       "firebase.json",
