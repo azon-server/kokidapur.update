@@ -1,4 +1,4 @@
-baseURL = "https://reseputama.web.app/"
+baseURL = "https://clararesep.web.app/"
 languageCode = "en-us"
 title = "Resep Utama"
 theme = "grid"
@@ -11,8 +11,8 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "2500 lebih resep ternama dari berbagai sumber yang dirangkum untuk anda contoh dengan mudah"
-  topdescription = "2500 lebih resep ternama dari berbagai sumber yang dirangkum untuk anda contoh dengan mudah"
+  description = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
+  topdescription = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
   toptitle = "Resep Utama"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://reseputama.web.app/"
+    homepage = "https://clararesep.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
