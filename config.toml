@@ -1,6 +1,6 @@
-baseURL = "https://variasiresep.web.app/"
+baseURL = "https://resepternama.web.app/"
 languageCode = "en-us"
-title = "Variasi Resep"
+title = "Resep Ternama"
 theme = "grid"
 
 [taxonomies]
@@ -11,9 +11,9 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "1000 lebih variasi resep termudah yang gampang diikuti dan teruji"
-  topdescription = "1000 lebih variasi resep termudah yang gampang diikuti dan teruji"
-  toptitle = "Variasi Resep"
+  description = "1500 lebih variasi ternama yang telah teruji dan sangat gampang untuk dicontoh"
+  topdescription = "1500 lebih variasi ternama yang telah teruji dan sangat gampang untuk dicontoh"
+  toptitle = "Resep Ternama"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://variasiresep.web.app/"
+    homepage = "https://resepternama.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
