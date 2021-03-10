@@ -1,6 +1,6 @@
 baseURL = "https://clararesep.web.app/"
 languageCode = "en-us"
-title = "Resep Utama"
+title = "Clara Resep"
 theme = "grid"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "grid"
 [params]
   description = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
   topdescription = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
-  toptitle = "Resep Utama"
+  toptitle = "Clara Resep"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
