@@ -1,6 +1,6 @@
 {
   "hosting": {
-	"site": "clararesep",
+	"site": "junaresep",
     "public": "public",
     "ignore": [
       "firebase.json",

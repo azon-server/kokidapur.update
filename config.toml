@@ -1,4 +1,4 @@
-baseURL = "https://clararesep.web.app/"
+baseURL = "https://junaresep.web.app/"
 languageCode = "en-us"
 title = "Clara Resep"
 theme = "grid"
@@ -11,8 +11,8 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
-  topdescription = "Kumpulan 5000 lebih resep tradisional Indonesia yang siap untuk dicoba"
+  description = "Resep terbaik dari chef terkenal dan chef lokal yang mudah dipraktek di rumah"
+  topdescription = "Resep terbaik dari chef terkenal dan chef lokal yang mudah dipraktek di rumah"
   toptitle = "Clara Resep"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://clararesep.web.app/"
+    homepage = "https://junaresep.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
