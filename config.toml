@@ -1,6 +1,6 @@
-baseURL = "https://ayam-resep.web.app/"
+baseURL = "https://kokidapur.web.app/"
 languageCode = "en-us"
-title = "Renata Resep"
+title = "Koki Dapur"
 theme = "grid"
 
 [taxonomies]
@@ -11,9 +11,9 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "Daftar resep populer dengan bahan dasar ayam yang cocok dibuat di rumah"
-  topdescription = "Daftar resep populer dengan bahan dasar ayam yang cocok dibuat di rumah"
-  toptitle = "Renata Resep"
+  description = "10000 lebih resep rumahan, referensi terbaik memasak di rumah tanpa ribet"
+  topdescription = "10000 lebih resep rumahan, referensi terbaik memasak di rumah tanpa ribet"
+  toptitle = "Koki Dapur"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://ayam-resep.web.app/"
+    homepage = "https://kokidapur.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

@@ -1,0 +1,97 @@
+---
+description: "Resep : Ayam bakar kalasan Terbukti"
+title: "Resep : Ayam bakar kalasan Terbukti"
+slug: 3178-resep-ayam-bakar-kalasan-terbukti
+date: 2020-10-05T18:41:30.607Z
+image: https://img-global.cpcdn.com/recipes/4e39fe623884fa93/751x532cq70/ayam-bakar-kalasan-foto-resep-utama.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/4e39fe623884fa93/751x532cq70/ayam-bakar-kalasan-foto-resep-utama.jpg
+cover: https://img-global.cpcdn.com/recipes/4e39fe623884fa93/751x532cq70/ayam-bakar-kalasan-foto-resep-utama.jpg
+author: Luke Cook
+ratingvalue: 4.2
+reviewcount: 25903
+recipeingredient:
+- "2 ekor ayam bagian paha 8 potong"
+- "4 lembar daun salam"
+- "5 lembar daun jeruk buang tulangnya"
+- "1,5 sdt lada bubuk aku 1 sdt"
+- "8 sdm kecap manis"
+- "1 buah jeruk limo"
+- "Sesuai selera garam dan kaldu bubuk ayam"
+- " Bumbu halus "
+- "10 siung bawang merah"
+- "5 siung bawang putih"
+- "8 butir kemiri"
+- "1/2 keping kecil gula merah"
+- "1 ruas jahe"
+recipeinstructions:
+- "Cuci bersih ayam lumuri garam dan air jeruk nipis diamkan 15 menit, cuci lagi. (Aku gak pake jeruk nipis gak punya jadi cuma cuci bersih ayam aja, masak cepet 🤦‍♀️)."
+- "Campur bumbu halus dengan lada bubuk, kecap manis, garam dan kaldu bubuk ayam. Taruh di dasar wajan daun salam dan daun jeruk lalu tata ayam, beri bumbu halus dan air. Lalu ungkep hingga air agak kering."
+- "Masukkan air jeruk limo lalu masak hingga air sat."
+- "Bakar ayam di teflon hingga kecoklatan sambil diolesi sisa bumbunya."
+- "Siap disajikan dengan lalapan, sambal terasi, dan nasi hangat."
+categories:
+- Recipe
+tags:
+- ayam
+- bakar
+- kalasan
+
+katakunci: ayam bakar kalasan 
+nutrition: 144 calories
+recipecuisine: American
+preptime: "PT33M"
+cooktime: "PT54M"
+recipeyield: "4"
+recipecategory: Dessert
+
+---
+
+
+![Ayam bakar kalasan](https://img-global.cpcdn.com/recipes/4e39fe623884fa93/751x532cq70/ayam-bakar-kalasan-foto-resep-utama.jpg)
+
+Kebenarekaragaman adat yang sangat beragam di Indonesia juga di ikuti kekayaan masakan yang beragam dengan berbagai citarasa dari masakan yang pedas,manis hingga empuk. Ciri khas makanan Nusantara ayam bakar kalasan yang kaya dengan rempah-rempah membawa kesan tersendiri bahkan untuk warga luar yang berkunjung.
+
+
+Sajian ayam bakar kalasan adalah hidangan ayam yang enak dan mudah untuk dibuat. Hal ini dikarenakan semua bumbu dan bahan yang digunakan untuk membuat sajian ini akan dapat anda. Restoran ini menyediakan ayam bakar, ayam kampung bakar, kami juga menerima untuk pesanan nasi box, untuk acara syukuran, ulang Terima kasih pelanggan setia Ayam Bakar Kalasan Sanjaya. Resep Ayam Bakar Kalasan enak dan mudah untuk dibuat.
+
+Keharmonisan keluarga bisa ditemukan dengan cara mudah. Diantaranya adalah memasak Ayam bakar kalasan untuk keluarga. kebersamaan makan bersama keluarga sudah menjadi kultur, bahkan banyak anak yang merantau selalu merindukan makanan di rumah mereka.
+
+Buat kamu yang suka masak atau harus menyiapkan makanan untuk orang lain ada banyak varian makanan yang dapat anda buat salah satunya ayam bakar kalasan yang merupakan makanan terkenal yang simpel dengan varian sederhana. Untungnya sekarang ini kamu bisa dengan mudah menemukan resep ayam bakar kalasan tanpa harus bersusah payah.
+Berikut ini resep Ayam bakar kalasan yang bisa anda coba untuk disajikan pada keluarga tercinta. Dan sangat simple hanya dengan 13 bahan dan 5 langkah.
+
+
+<!--inarticleads1-->
+
+##### Bahan-bahan yang dibutuhkan membuat Ayam bakar kalasan:
+
+1. Jangan lupa 2 ekor ayam bagian paha (8 potong)
+1. Dibutuhkan 4 lembar daun salam
+1. Jangan lupa 5 lembar daun jeruk buang tulangnya
+1. Tambah 1,5 sdt lada bubuk (aku 1 sdt)
+1. Jangan lupa 8 sdm kecap manis
+1. Siapkan 1 buah jeruk limo
+1. Diperlukan Sesuai selera garam dan kaldu bubuk ayam
+1. Siapkan  Bumbu halus :
+1. Diperlukan 10 siung bawang merah
+1. Jangan lupa 5 siung bawang putih
+1. Siapkan 8 butir kemiri
+1. Harus ada 1/2 keping kecil gula merah
+1. Siapkan 1 ruas jahe
+
+
+Ayam Goreng Kalasan is an Indonesian type of processed fried chicken that is typical from the area of Kalasan, Sleman, Yogyakarta. The specialty of Kalasan Fried Chicken is the taste of the chicken which is savory and kremesan which is very distinctive. Kali ini ada salah satu penggolahan ayam bakar yang sudah banyak dikenal oleh masyarakat dengan nama ayam bakar kalasan. Ayam kalasan merupakan menu makanan yang memiliki cita rasa yang. 
+
+<!--inarticleads2-->
+
+##### Instruksi membuat  Ayam bakar kalasan:
+
+1. Cuci bersih ayam lumuri garam dan air jeruk nipis diamkan 15 menit, cuci lagi. (Aku gak pake jeruk nipis gak punya jadi cuma cuci bersih ayam aja, masak cepet 🤦‍♀️).
+1. Campur bumbu halus dengan lada bubuk, kecap manis, garam dan kaldu bubuk ayam. Taruh di dasar wajan daun salam dan daun jeruk lalu tata ayam, beri bumbu halus dan air. Lalu ungkep hingga air agak kering.
+1. Masukkan air jeruk limo lalu masak hingga air sat.
+1. Bakar ayam di teflon hingga kecoklatan sambil diolesi sisa bumbunya.
+1. Siap disajikan dengan lalapan, sambal terasi, dan nasi hangat.
+
+
+Kali ini ada salah satu penggolahan ayam bakar yang sudah banyak dikenal oleh masyarakat dengan nama ayam bakar kalasan. Ayam kalasan merupakan menu makanan yang memiliki cita rasa yang. Mendengar kata Kalasan sebagian orang langsung kebayang ayam bakarnya yang terkenal kelezatannya, yaitu resep ayam bakar kalasan. Ayam Bakar Kalasan Empuk Bumbu Meresap Pakai Air Kelapa Panggang Oven Mudah Praktis Dan Enak. Resep Ayam Bakar - Ayam bakar merupakan hidangan istimewa olahan daging ayam yang sudah Ayam goreng kalasan adalah makanan yang berbahan dasar ayam yang dipopulerkan dari daerah. 
+
+Demikianlah cara membuat ayam bakar kalasan yang gampang dan teruji. Terima kasih untuk waktu anda untuk membaca artikel makanan ini. Saya yakin anda bisa membuatnya dengan gampang di rumah. Kami masih menyimpan banyak resep spesial yang sangat mudah dan teruji, anda bisa menelusuri di website kami, apabila artikel bermanfaat jangan lupa untuk share dan bookmark halaman website ini karena akan banyak update terbaru untuk resep-resep pilihan yang terbukti dan teruji. Mari ke dapur !!!. 

@@ -1,6 +1,6 @@
 {
   "hosting": {
-	"site": "ayam-resep",
+	"site": "kokidapur",
     "public": "public",
     "ignore": [
       "firebase.json",
