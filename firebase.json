@@ -1,6 +1,6 @@
 {
   "hosting": {
-	"site": "renataresep",
+	"site": "ayam-resep",
     "public": "public",
     "ignore": [
       "firebase.json",

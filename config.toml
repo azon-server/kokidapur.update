@@ -1,4 +1,4 @@
-baseURL = "https://renataresep.web.app/"
+baseURL = "https://ayam-resep.web.app/"
 languageCode = "en-us"
 title = "Renata Resep"
 theme = "grid"
@@ -11,8 +11,8 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "Resep ini sudah kami coba dan gampang banget, setiap orang bisa menjadi profesional"
-  topdescription = "Resep ini sudah kami coba dan gampang banget, setiap orang bisa menjadi profesional"
+  description = "Daftar resep populer dengan bahan dasar ayam yang cocok dibuat di rumah"
+  topdescription = "Daftar resep populer dengan bahan dasar ayam yang cocok dibuat di rumah"
   toptitle = "Renata Resep"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://renataresep.web.app/"
+    homepage = "https://ayam-resep.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
