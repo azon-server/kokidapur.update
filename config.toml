@@ -1,6 +1,6 @@
-baseURL = "https://junaresep.web.app/"
+baseURL = "https://renataresep.web.app/"
 languageCode = "en-us"
-title = "Clara Resep"
+title = "Renata Resep"
 theme = "grid"
 
 [taxonomies]
@@ -11,9 +11,9 @@ theme = "grid"
   post = ":slug"
 
 [params]
-  description = "Resep terbaik dari chef terkenal dan chef lokal yang mudah dipraktek di rumah"
-  topdescription = "Resep terbaik dari chef terkenal dan chef lokal yang mudah dipraktek di rumah"
-  toptitle = "Clara Resep"
+  description = "Resep ini sudah kami coba dan gampang banget, setiap orang bisa menjadi profesional"
+  topdescription = "Resep ini sudah kami coba dan gampang banget, setiap orang bisa menjadi profesional"
+  toptitle = "Renata Resep"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Bintang Clara"
-    homepage = "https://junaresep.web.app/"
+    homepage = "https://renataresep.web.app/"
     bio = "Penyuka masakan tradisional"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
